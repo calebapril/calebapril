@@ -18,6 +18,22 @@ I love the entire process of developing creative websites. I love the challenge 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
+## 🔭 I'm currently working on
+
+- My old projects
+- Movies Website (Html, Css, Javascript)
+- Mobile + Desktop Amazon Clone (Working on it soon...)
+- My next blog & Portfolio
+- My CSS skill
+- My Javascript skill
+
+## 🌱 I'm currently learning
+
+- 📱 C, Python and other programming language
+- React js
+- Sass (Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. SassScript is the scripting language itself.)
+- Node js 
+
 <!--
 **calebapril/calebapril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
