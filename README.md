@@ -60,7 +60,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebapril&layout=compact)](https://github.com/calebapril)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=calebapril.calebapril)]()
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=calebapril.calebapril)](https://github.com/calebapril)
 <!--
 **calebapril/calebapril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
