@@ -1,4 +1,4 @@
-![Caleb Nyong (1)](https://user-images.githubusercontent.com/65078408/161803614-b8ca39b8-edd2-4acd-81b8-dcac0ff2a9ec.gif)
+
 
 <h3 align="center">
 Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Caleb</a> 👋
